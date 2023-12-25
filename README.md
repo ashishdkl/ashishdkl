@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishdkl
+- 👋 Hi, I’m Ashish Dhakal
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning VB.Net,Sql
   
