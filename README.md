@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Dhakal
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning VB.Net,Sql
+- 🌱 I’m currently learning Java, ReactJS
   
 <!---
 ashishdkl/ashishdkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
